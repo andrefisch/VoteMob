@@ -1,0 +1,5 @@
+git status (shows what files have changed)
+git add *
+git commit -m ""
+git push
+how to get out of vim :q
